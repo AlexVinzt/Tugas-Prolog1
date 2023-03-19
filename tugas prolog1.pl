@@ -1,0 +1,9 @@
+menikah(david, amy).
+menikah(jack, karen).
+anak(amy, liza).
+sodara(liza, jhon).
+anak(karen, ray).
+sodara(ray, susan).
+menikah(jhon, susan).
+anak(jhon, peter).
+sodara(peter, mary).
